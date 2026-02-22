@@ -12,6 +12,9 @@ public class CommonUtilityClass {
     public void abhinandanCheckout(){
         System.out.println("Abhinandan Checkout");
     }
+    public void abhinandan2ndcommit(){
+        System.out.println("Abhinandan 2nd commit");
+    }
 
     public void srujanaTest(){
         System.out.println("srujana's 1st commit");
