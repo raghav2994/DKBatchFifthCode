@@ -31,14 +31,20 @@ public class CommonUtilityClass {
         System.out.println("Sumreen 2nd demo");
     }
 
-
-
      public void PriyankafirstMethod(){
         System.out.println("Priyanka first method created");
     }
 
      public void PriyankaSecondMethod(){
         System.out.println("Priyanka Second method created");
+    }
+
+
+    public void rupaTest1(){
+        System.out.println("Rupa's 1st commit");
+    }
+    public void rupaTest2(){
+        System.out.println("Rupa's 2nd commit");
     }
 
 }
