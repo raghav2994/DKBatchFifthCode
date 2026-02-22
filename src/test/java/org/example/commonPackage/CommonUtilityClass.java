@@ -30,5 +30,10 @@ public class CommonUtilityClass {
     public void demoMethodBySumreen2nd(){
         System.out.println("Sumreen 2nd demo");
     }
-
+    public void rupaTest1(){
+        System.out.println("Rupa's 1st commit");
+    }
+    public void rupaTest2(){
+        System.out.println("Rupa's 2nd commit");
+    }
 }
