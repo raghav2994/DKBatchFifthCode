@@ -6,4 +6,11 @@ public class CommonUtilityClass {
         System.out.println("Raghav");
     }
 
+    public void abhinandanlogin(){
+        System.out.println("Abhinandan Basu");
+    }
+    public void abhinandanCheckout(){
+        System.out.println("Abhinandan Checkout");
+    }
+
 }
