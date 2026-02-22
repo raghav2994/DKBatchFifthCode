@@ -27,4 +27,8 @@ public class CommonUtilityClass {
         System.out.println("Sumreen demo");
     }
 
+    public void demoMethodBySumreen2nd(){
+        System.out.println("Sumreen 2nd demo");
+    }
+
 }
