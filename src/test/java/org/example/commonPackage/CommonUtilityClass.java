@@ -23,4 +23,8 @@ public class CommonUtilityClass {
         System.out.println("srujana's 2nd commit");
     }
 
+    public void demoMethodBySumreen(){
+        System.out.println("Sumreen demo");
+    }
+
 }
