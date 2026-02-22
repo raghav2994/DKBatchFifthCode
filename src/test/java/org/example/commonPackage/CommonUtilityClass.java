@@ -14,7 +14,10 @@ public class CommonUtilityClass {
     }
 
     public void srujanaTest(){
-        System.out.println("srujana 1st commit");
+        System.out.println("srujana's 1st commit");
+    }
+    public void srujanaTest2(){
+        System.out.println("srujana's 2nd commit");
     }
 
 }
