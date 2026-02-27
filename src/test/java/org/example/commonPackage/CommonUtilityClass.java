@@ -48,6 +48,8 @@ public class CommonUtilityClass {
     }
 
     public void pooja() { System.out.println("First Method"); }
+    public void poojas() { System.out.println("Second Method"); }
+
 
 
 }
