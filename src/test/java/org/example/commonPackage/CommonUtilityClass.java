@@ -47,4 +47,7 @@ public class CommonUtilityClass {
         System.out.println("Rupa's 2nd commit");
     }
 
+    public void pooja() { System.out.println("First Method"); }
+
+
 }
