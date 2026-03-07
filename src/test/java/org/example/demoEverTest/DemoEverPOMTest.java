@@ -32,14 +32,14 @@ public class DemoEverPOMTest {
         switch (browserName) {
             case "Chrome":
                 driver = new RemoteWebDriver(
-                        new URL("http://192.168.68.102:4444"),
+                        new URL("http://192.168.68.106:4444"),
                         new ChromeOptions()
                 );
                 break;
 
             case "Firefox":
                 driver = new RemoteWebDriver(
-                        new URL("http://192.168.68.102:4444"),
+                        new URL("http://192.168.68.106:4444"),
                         new FirefoxOptions()
                 );
                 break;
